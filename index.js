@@ -1,1 +1,20 @@
-https://github.com/mmncx022-eng/-/blob/a336dbf240016a46d3e0f77a6f3e87267b726b43/README.md?plain=1#L1
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "Project description",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.18.0",
+        "dotenv": "^16.5.0",
+        "express": "^5.1.0",
+        "mongoose": "^8.14.1",
+        "ms": "^2.1.3"
+    }
+}
+
